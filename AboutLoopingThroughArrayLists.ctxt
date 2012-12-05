@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ forEachLoop()
+comment1.params=
+comment1.target=void\ forLoopWithIndex()
+comment2.params=
+comment2.target=void\ forLoopWithIterator()
+comment3.params=
+comment3.target=void\ whileLoopWithIndex()
+comment4.params=
+comment4.target=void\ whileLoopWithIterator()
+numComments=5
